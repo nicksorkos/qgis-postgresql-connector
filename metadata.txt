@@ -1,0 +1,10 @@
+[general]
+name=PostgreSQL Connector
+description=Browse, inspect, preview and load PostgreSQL/PostGIS tables directly in QGIS.
+version=0.1.0
+qgisMinimumVersion=3.28
+author=Nikos Sorkos
+icon=database.png
+about=Lightweight QGIS plugin for connecting to PostgreSQL/PostGIS databases, browsing schemas and tables, previewing attributes, viewing table metadata, and loading spatial or non-spatial tables into QGIS.
+category=Database
+experimental=True
